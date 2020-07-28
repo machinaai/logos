@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="62.1023273%" y1="0%" x2="91.0524889%" y2="25.1599668%" id="linearGradient-1">
+            <stop stop-color="#2E7EFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2F54EB" fill-rule="nonzero" x="0" y="0" width="150" height="150" rx="8"></rect>
+        <g id="logo" transform="translate(-22.000000, -4.000000)">
+            <g id="图形" transform="translate(85.802521, 85.647431) scale(-1, 1) rotate(135.000000) translate(-85.802521, -85.647431) translate(19.302521, 32.147431)">
+                <path d="M77.7758332,3.99069347 L1.97485159,79.0384679 C-2.56586501,83.5248907 15.478461,94.6435075 16.6086382,93.5268439 L84.0560767,26.8858863 C85.1862535,25.7692228 86.9015275,25.7692228 88.0317049,26.8858863 L114.877957,53.4111335 C118.9445,57.4290521 125.537669,57.4290521 129.604213,53.4111335 C133.670756,49.3932145 133.670756,42.8788809 129.604213,38.8609621 L94.195194,3.87528537 C89.6358335,-0.514049103 82.2991271,-0.478514887 77.7758332,3.99069347 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M77.7758332,3.99069347 L1.97485159,79.0384679 C-0.376582059,81.3617851 0.552210649,87.1918098 4.37104659,90.9407426 C7.92654237,94.4311555 14.2175856,96.0304176 16.6774621,93.5949841 C20.078759,90.2274847 42.5382972,67.9911185 84.0560767,26.8858863 C86.8701806,24.4869012 91.4616966,19.6278149 98.2043601,18.4913609 C103.215389,17.6467684 108.693803,19.5057013 114.639605,24.0681596 C110.664463,20.1405438 103.84966,13.4095857 94.195194,3.87528537 C89.6358335,-0.514049103 82.2991271,-0.478514887 77.7758332,3.99069347 Z" id="Shape" fill="#FFFFFF"></path>
+                <ellipse id="Combined-Shape" stroke="#FFFFFF" stroke-width="2.5" cx="78.637351" cy="93.7557653" rx="12.5104877" ry="12.3608976"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
